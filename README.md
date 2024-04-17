@@ -115,5 +115,11 @@ con.close()
 - Customize the database connection details if required.
 - The exported CSV file (`anime.csv`) will contain two columns: "name" and "link" representing the anime title and its corresponding link.
 
-**Author**
+### Author
+
 This script was authored by Deep Prakash Srivastava. Feel free to reach out for any questions or improvements.
+
+
+### License
+
+This project is licensed under the [MIT License](LICENSE). Copyright © 2024 Deep Prakash Srivasytava.
